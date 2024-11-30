@@ -1,4 +1,4 @@
-# E-ComWebApp-AdvanceJava
+# E-CommerceWebApp-AdvanceJava
 
 
 For run this project in intelliJ
